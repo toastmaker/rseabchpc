@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.o
+*.so
+*.out
+*.exe
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor
+.vscode/
+

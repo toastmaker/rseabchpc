@@ -1,0 +1,1 @@
+Use chimera-slurm MCP. Create a hello world example that prints greeting from all threads. Run on 2 threads. Submit via sbatch to ffa partition. Save the sbatch.slurm to be submitted to this dir and scp the outputs to this folder, too.
