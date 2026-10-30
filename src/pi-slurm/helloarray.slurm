@@ -1,3 +1,4 @@
+#!/bin/bash
 #SBATCH --partition ffa
 #SBATCH --job-name "hello_job_array"
 #SBATCH --cpus-per-task 1
